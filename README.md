@@ -1,8 +1,6 @@
 # A Ruína de Arquimedes
 
-<div align="center">
 ![manual de identidade (1) (1)](https://github.com/TheRodrig0/A-ruina-de-Arquimedes/assets/86856395/1569878d-abf3-4308-b18c-bd0c800ff663)
-</div>
 
 ## Sobre
 Embarque na misteriosa jornada de ‘A Ruína de Arquimedes’, um RPG deslumbrante, criado com a poderosa tecnologia Phaser 3. Neste mundo imersivo e interativo, a matemática não é apenas uma ciência, mas uma magia poderosa que permeia o tecido da realidade. Arquimedes, nosso corajoso protagonista, é o mestre dessa magia. Com cada enigma matemático resolvido, ele desvenda os segredos ocultos deste mundo de fantasia. Junte-se a Arquimedes nesta aventura épica e explore as profundezas de um universo onde a matemática é a chave para o poder e a sabedoria. Seja bem-vindo à sua jornada, onde cada passo revela um novo mistério aguardando para ser descoberto.
